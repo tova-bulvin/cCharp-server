@@ -1,0 +1,144 @@
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\BL.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\BL.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\Common.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\DAL.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\Entities.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\EntityFramework.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\Common.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\DAL.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\DAL.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\Entities.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\Entities.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\EntityFramework.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\obj\Debug\BL.csproj.CopyComplete
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\obj\Debug\BL.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\BL\obj\Debug\BL.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\BL.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\BL.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\Common.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\DAL.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\Entities.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\EntityFramework.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\EntityFramework.SqlServer.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\Common.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\DAL.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\DAL.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\Entities.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\Entities.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\EntityFramework.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\bin\Debug\EntityFramework.SqlServer.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\obj\Debug\BL.csproj.CopyComplete
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\obj\Debug\BL.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\BL\obj\Debug\BL.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\BL.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\BL.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\Common.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\DAL.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\Entities.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\EntityFramework.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\EntityFramework.SqlServer.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\Common.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\DAL.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\DAL.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\Entities.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\Entities.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\EntityFramework.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\bin\Debug\EntityFramework.SqlServer.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\obj\Debug\BL.csproj.CopyComplete
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\obj\Debug\BL.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\BL\obj\Debug\BL.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\BL.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\BL.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\Common.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\DAL.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\Entities.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\EntityFramework.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\EntityFramework.SqlServer.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\Common.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\DAL.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\DAL.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\Entities.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\Entities.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\EntityFramework.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\EntityFramework.SqlServer.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\obj\Debug\BL.csproj.CopyComplete
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\obj\Debug\BL.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\obj\Debug\BL.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\BL.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\BL.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\Common.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\DAL.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\Entities.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\EntityFramework.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\Common.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\DAL.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\DAL.dll.config
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\Entities.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\Entities.dll.config
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\EntityFramework.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\obj\Debug\BL.csproj.CopyComplete
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\obj\Debug\BL.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\BL\obj\Debug\BL.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\BL.dll.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\BL.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\BL.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\csc.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\csc.exe.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\csc.rsp
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\csi.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\csi.rsp
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\vbc.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\vbc.exe.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\vbc.rsp
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\Common.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\DAL.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\Entities.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\EntityFramework.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\Common.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\Common.dll.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\DAL.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\DAL.dll.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\Entities.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\Entities.dll.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\EntityFramework.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\obj\Debug\BL.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\BL\obj\Debug\BL.pdb

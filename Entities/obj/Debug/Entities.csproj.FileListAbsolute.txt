@@ -1,0 +1,87 @@
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\bin\Debug\Entities.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\bin\Debug\Entities.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\bin\Debug\Entities.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\bin\Debug\EntityFramework.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\bin\Debug\EntityFramework.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\obj\Debug\Entities.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\obj\Debug\Entities.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\bin\Debug\Entities.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\bin\Debug\Entities.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\bin\Debug\Entities.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\bin\Debug\EntityFramework.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\bin\Debug\EntityFramework.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\obj\Debug\Entities.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\Entities\obj\Debug\Entities.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\bin\Debug\Entities.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\bin\Debug\Entities.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\bin\Debug\Entities.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\bin\Debug\EntityFramework.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\bin\Debug\EntityFramework.SqlServer.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\bin\Debug\EntityFramework.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\bin\Debug\EntityFramework.SqlServer.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\obj\Debug\Entities.csproj.CopyComplete
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\obj\Debug\Entities.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\Entities\obj\Debug\Entities.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\bin\Debug\Entities.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\bin\Debug\Entities.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\bin\Debug\Entities.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\bin\Debug\EntityFramework.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\bin\Debug\EntityFramework.SqlServer.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\bin\Debug\EntityFramework.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\bin\Debug\EntityFramework.SqlServer.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\obj\Debug\Entities.csproj.CopyComplete
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\obj\Debug\Entities.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\Entities\obj\Debug\Entities.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\Entities.dll.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\Entities.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\Entities.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\csc.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\csc.exe.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\csc.rsp
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\csi.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\csi.rsp
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\vbc.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\vbc.exe.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\vbc.rsp
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\EntityFramework.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\EntityFramework.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\obj\Debug\Entities.csproj.CopyComplete
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\obj\Debug\Entities.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\Entities\obj\Debug\Entities.pdb

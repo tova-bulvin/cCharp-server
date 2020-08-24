@@ -1,0 +1,444 @@
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\ApplicationInsights.config
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\WebAPI.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\WebAPI.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\WebAPI.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Antlr3.Runtime.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\BL.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Common.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Entities.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.AI.Web.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Newtonsoft.Json.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Cors.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Helpers.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Http.Cors.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Http.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Mvc.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Optimization.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Razor.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.WebPages.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\WebGrease.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\DAL.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\EntityFramework.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\BL.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Common.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Entities.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Entities.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Http.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Http.Cors.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Newtonsoft.Json.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Helpers.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Mvc.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Optimization.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.Razor.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.WebPages.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Antlr3.Runtime.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\Microsoft.AI.Web.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\DAL.pdb
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\DAL.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\EntityFramework.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\obj\Debug\WebAPI.dll
+D:\mby-tfs\MatchMakerTF\ProjectTemplate\WebAPI\obj\Debug\WebAPI.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\ApplicationInsights.config
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\WebAPI.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\WebAPI.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\WebAPI.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Antlr3.Runtime.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\BL.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Common.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Entities.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.AI.Web.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.ApplicationInsights.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Newtonsoft.Json.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Cors.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Helpers.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Http.Cors.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Http.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Mvc.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Optimization.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Razor.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.WebPages.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\WebGrease.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\DAL.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\EntityFramework.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\BL.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Common.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Entities.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Entities.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Http.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Http.Cors.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Newtonsoft.Json.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Helpers.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Mvc.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Optimization.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.Razor.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.WebPages.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Antlr3.Runtime.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.ApplicationInsights.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\Microsoft.AI.Web.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\DAL.pdb
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\DAL.dll.config
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\EntityFramework.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\obj\Debug\WebAPI.dll
+D:\mby-tfs\MatchMakerTF\ProjectExample\WebAPI\obj\Debug\WebAPI.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\ApplicationInsights.config
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\WebAPI.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\WebAPI.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\WebAPI.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Antlr3.Runtime.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\BL.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Common.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Entities.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.AI.Web.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.ApplicationInsights.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Newtonsoft.Json.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Net.Http.Formatting.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Cors.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Helpers.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Http.Cors.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Http.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Http.WebHost.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Mvc.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Optimization.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Razor.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.WebPages.Deployment.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.WebPages.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.WebPages.Razor.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\WebGrease.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\DAL.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\EntityFramework.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\EntityFramework.SqlServer.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\BL.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Common.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Entities.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Entities.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Net.Http.Formatting.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Http.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Http.Cors.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Newtonsoft.Json.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Helpers.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Http.WebHost.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Mvc.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Optimization.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.Razor.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.WebPages.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.WebPages.Deployment.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\System.Web.WebPages.Razor.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Antlr3.Runtime.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.ApplicationInsights.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\Microsoft.AI.Web.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\DAL.pdb
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\DAL.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\EntityFramework.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\bin\EntityFramework.SqlServer.xml
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\obj\Debug\WebAPI.dll
+M:\טובי והני\פרויקט\סופי\makeupProject\WebAPI\obj\Debug\WebAPI.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\ApplicationInsights.config
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\WebAPI.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\WebAPI.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\WebAPI.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Antlr3.Runtime.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\BL.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Common.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Entities.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.Web.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.ApplicationInsights.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Newtonsoft.Json.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Net.Http.Formatting.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Cors.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Helpers.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.Cors.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.WebHost.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Mvc.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Optimization.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Razor.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.Deployment.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.Razor.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\WebGrease.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\DAL.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\EntityFramework.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\EntityFramework.SqlServer.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\BL.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Common.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Entities.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Entities.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Net.Http.Formatting.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.Cors.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Newtonsoft.Json.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Helpers.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.WebHost.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Mvc.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Optimization.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Razor.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.Deployment.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.Razor.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Antlr3.Runtime.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.ApplicationInsights.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.Web.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\DAL.pdb
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\DAL.dll.config
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\EntityFramework.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\EntityFramework.SqlServer.xml
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\obj\Debug\WebAPI.dll
+M:\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\obj\Debug\WebAPI.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\ApplicationInsights.config
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\WebAPI.dll.config
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\WebAPI.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\WebAPI.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Antlr3.Runtime.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\BL.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Common.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Entities.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.Web.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.ApplicationInsights.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Newtonsoft.Json.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Net.Http.Formatting.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Cors.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Helpers.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.Cors.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.WebHost.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Mvc.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Optimization.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Razor.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.Razor.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\WebGrease.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\DAL.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\EntityFramework.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\EntityFramework.SqlServer.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\BL.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Common.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Entities.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Entities.dll.config
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Net.Http.Formatting.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.Cors.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Newtonsoft.Json.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Helpers.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Http.WebHost.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Mvc.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Optimization.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.Razor.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\System.Web.WebPages.Razor.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Antlr3.Runtime.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.ApplicationInsights.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\Microsoft.AI.Web.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\DAL.pdb
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\DAL.dll.config
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\EntityFramework.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\bin\EntityFramework.SqlServer.xml
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\obj\Debug\WebAPI.dll
+F:\כונן m יד\טובי והני\פרויקט\סופי\makeupProjectGit\makeupProject\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\ApplicationInsights.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\WebAPI.dll.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\WebAPI.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\WebAPI.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\csc.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\csc.rsp
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\csi.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\csi.rsp
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\vbc.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\BL.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Common.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\DAL.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Entities.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\EntityFramework.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Buffers.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Memory.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Http.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Razor.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\WebGrease.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\BL.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\BL.dll.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Common.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Common.dll.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\DAL.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\DAL.dll.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Entities.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Entities.dll.config
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\EntityFramework.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Buffers.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Memory.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Http.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Razor.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\System.Web.Cors.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\grpc_csharp_ext.x86.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\grpc_csharp_ext.x64.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\libgrpc_csharp_ext.x86.so
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\libgrpc_csharp_ext.x64.so
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\libgrpc_csharp_ext.x86.dylib
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\libgrpc_csharp_ext.x64.dylib
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Grpc.Core.Api.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Grpc.Core.dll
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Grpc.Core.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Grpc.Core.xml
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Grpc.Core.Api.pdb
+C:\Users\tovar.RCDC\Desktop\take\MakeYourMakeup\Ccharp server\WebAPI\bin\Grpc.Core.Api.xml
