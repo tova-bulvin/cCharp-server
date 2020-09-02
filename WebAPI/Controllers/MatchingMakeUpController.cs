@@ -16,6 +16,8 @@ namespace WebAPI.Controllers
     public class MatchingMakeUpController : ApiController
     {
 
+        static int count = 0;
+
         [HttpGet]
         public void sendMail(string mail,string massege)
         {
@@ -40,7 +42,22 @@ namespace WebAPI.Controllers
 
                     //remove last imaged from server when there are more 10 files in server
                     string[] files= Directory.GetFiles(serverPath);
-                    if (files.Length > 3)
+
+                    //if num of users>5
+                    if (count > 5)
+                    {
+                        MatchMakeUpDto matchMakeUpDto2 = new MatchMakeUpDto();
+                        List<string> list = new List<string>();
+                        list.Add("user count above 5, is: "+count);
+                        matchMakeUpDto2.Images = list.ToArray();
+                        return matchMakeUpDto2;
+                    }
+                    else
+                    {
+                        count++;
+                    }
+
+                    if (files.Length > 5)
                     {
                         IOrderedEnumerable<string> orders = files.OrderByDescending(d => new FileInfo(d).CreationTime);
                         File.Delete(orders.Last());
@@ -55,22 +72,22 @@ namespace WebAPI.Controllers
                     
                     if (HttpContext.Current.Request.Files != null && HttpContext.Current.Request.Files.Count > 0)
                     {
+                        
                         var file = HttpContext.Current.Request.Files["img"];
                         file.SaveAs(fullPath);
 
                         //add image path to list
                         List<string> list = new List<string>();
                         var p = fullPath.Split(new string[] { "Shared" }, StringSplitOptions.None);
-                        /*p[0] += "api\\Shared";
-                        fullPath = p[0] + p[1];
-                        list.Add(fullPath + "/");*/
                         list.Add("http://makeup4userver.somee.com/api/Shared" + p[1]+"/");
                         matchMakeUpDto.Images = list.ToArray();
                         MatchMakeUpDto matchMakeUpDtoRes = MatchingMakeUpBL.MatchRGB(matchMakeUpDto);
+                        count--;
                         return matchMakeUpDtoRes;
                     }
 
                 }
+                count--;
                 return null;
             }
             catch (Exception e)
@@ -80,6 +97,7 @@ namespace WebAPI.Controllers
                 list.Add(e.Message);
                 list.Add(e.StackTrace);
                 matchMakeUpDto.Images = list.ToArray();
+                count--;
                 return matchMakeUpDto;
             }
            

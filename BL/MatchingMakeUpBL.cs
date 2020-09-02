@@ -127,7 +127,7 @@ namespace BL
                 string _sender = "315171322@mby.co.il";
                 SmtpClient client = new SmtpClient("smtp-mail.outlook.com");*/
                 string _password="todaD818";
-                string _sender="tovi27818@gmail.com";
+                string _sender= "makeyourmakeup1@gmail.com";
                 SmtpClient client = new SmtpClient("smtp.gmail.com");
                 client.Port = 587;
                 client.DeliveryMethod = SmtpDeliveryMethod.Network;
