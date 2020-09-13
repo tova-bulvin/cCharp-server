@@ -35,7 +35,7 @@ namespace WebAPI.Controllers
                 FileStream fileStream = new FileStream(filePath, FileMode.Open);
                 Image image = Image.FromStream(fileStream);
                 MemoryStream memoryStream = new MemoryStream();
-                image.Save(memoryStream, ImageFormat.Png);
+                image.Save(memoryStream, format);
                 result.Content = new ByteArrayContent(memoryStream.ToArray());
                 result.Content.Headers.ContentType = new MediaTypeHeaderValue(formatString);
 
