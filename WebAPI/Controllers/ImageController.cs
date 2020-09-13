@@ -20,17 +20,22 @@ namespace WebAPI.Controllers
         [System.Web.Http.Route("api/shared/SavedPictures/{imageName}/")]
         public HttpResponseMessage GetAll(string imageName)
         {
+            //get server-path of image
             string filePath = System.Web.HttpContext.Current.Server.MapPath("~/Shared/SavedPictures/") + imageName;
             try
             {
+                //by default: image format is jpeg
                 ImageFormat format = ImageFormat.Jpeg;
                 string formatString = "image/jpeg";
                 string end = imageName.Split('.')[1];
+                
+                //check if image format is png
                 if (end.ToLower() == "png")
                 {
                     format = ImageFormat.Png;
                     formatString = "image/png";
                 }
+                //send the image by its format
                 var result = new HttpResponseMessage(HttpStatusCode.OK);
                 FileStream fileStream = new FileStream(filePath, FileMode.Open);
                 Image image = Image.FromStream(fileStream);
